@@ -11,13 +11,6 @@ class LoadingScreen extends StatefulWidget {
   @override
   _LoadingScreenState createState() => _LoadingScreenState();
 
-  // Widget build(BuildContext context) {
-  //   return Scaffold(
-  //     body: Center(child: Text('veli')),
-  //   );
-
-  // return const Scaffold(
-  //   body: Center(child: Text('veli'))),
 }
 
 class _LoadingScreenState extends State<LoadingScreen> {
